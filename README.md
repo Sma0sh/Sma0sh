@@ -1,13 +1,6 @@
 <a> <img src="https://i.pinimg.com/originals/53/78/af/5378afc474a5702cdacf5cdbbb960c49.gif" width="100%" height="275px" /> </a>
 ### Well, Hello i guess 👋
 <p float="left">
-   <a align="right"> 
-- 🌀 I’m currently working on 42 projects<br>
-- 🌀 I’m currently learning C.<br>
-- 🌀 Ask me about anything and everything.<br>
-- 🌀 How to reach me: For now only from slack diteixei and discord Smash_0069.<br>
-- 🌀 Fun fact: Dolphins have elbows.
-   </a>
   &nbsp;
   <H1>My 42 Progress !</H1>
    <!--
